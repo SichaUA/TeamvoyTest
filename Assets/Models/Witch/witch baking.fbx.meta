@@ -1,0 +1,513 @@
+fileFormatVersion: 2
+guid: 138814cb559ae814a9297624d872423d
+timeCreated: 1443451120
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: kotel
+    100002: Texture Group
+    100004: witch
+    100006: //RootNode
+    100008: Witch__Chest
+    100010: Witch__Head
+    100012: Witch__Head_Tip
+    100014: Witch__Hierarchy
+    100016: Witch__Jaw
+    100018: Witch__Jaw_Tip
+    100020: Witch__L.Arm
+    100022: Witch__L.Arm_Roll_1
+    100024: Witch__L.Arm_Roll_2
+    100026: Witch__L.Foot
+    100028: Witch__L.Foot_Tip
+    100030: Witch__L.Foot_Toes
+    100032: Witch__L.ForeArm
+    100034: Witch__L.ForeArm_Roll_1
+    100036: Witch__L.ForeArm_Roll_2
+    100038: Witch__L.Hand
+    100040: Witch__L.Hand_End
+    100042: Witch__L.Index_1
+    100044: Witch__L.Index_2
+    100046: Witch__L.Index_3
+    100048: Witch__L.Index_Tip
+    100050: Witch__L.Leg
+    100052: Witch__L.Leg_Roll_1
+    100054: Witch__L.Middle_1
+    100056: Witch__L.Middle_2
+    100058: Witch__L.Middle_3
+    100060: Witch__L.Middle_Tip
+    100062: Witch__L.Pinky_1
+    100064: Witch__L.Pinky_2
+    100066: Witch__L.Pinky_3
+    100068: Witch__L.Pinky_Metacarpal
+    100070: Witch__L.Pinky_Metacarpal_Tip
+    100072: Witch__L.Pinky_Tip
+    100074: Witch__L.Ring_1
+    100076: Witch__L.Ring_2
+    100078: Witch__L.Ring_3
+    100080: Witch__L.Ring_Metacarpal
+    100082: Witch__L.Ring_Metacarpal_Tip
+    100084: Witch__L.Ring_Tip
+    100086: Witch__L.Shoulder
+    100088: Witch__L.Thumb_1
+    100090: Witch__L.Thumb_2
+    100092: Witch__L.Thumb_3
+    100094: Witch__L.Thumb_Tip
+    100096: Witch__L.UpLeg
+    100098: Witch__L.UpLeg_Roll_1
+    100100: Witch__L.UpLeg_Roll_2
+    100102: Witch__Neck
+    100104: Witch__R.Arm
+    100106: Witch__R.Arm_Roll_1
+    100108: Witch__R.Arm_Roll_2
+    100110: Witch__R.Foot
+    100112: Witch__R.Foot_Tip
+    100114: Witch__R.Foot_Toes
+    100116: Witch__R.ForeArm
+    100118: Witch__R.ForeArm_Roll_1
+    100120: Witch__R.ForeArm_Roll_2
+    100122: Witch__R.Hand
+    100124: Witch__R.Hand_End
+    100126: Witch__R.Index_1
+    100128: Witch__R.Index_2
+    100130: Witch__R.Index_3
+    100132: Witch__R.Index_Tip
+    100134: Witch__R.Leg
+    100136: Witch__R.Leg_Roll_1
+    100138: Witch__R.Middle_1
+    100140: Witch__R.Middle_2
+    100142: Witch__R.Middle_3
+    100144: Witch__R.Middle_Tip
+    100146: Witch__R.Pinky_1
+    100148: Witch__R.Pinky_2
+    100150: Witch__R.Pinky_3
+    100152: Witch__R.Pinky_Metacarpal
+    100154: Witch__R.Pinky_Metacarpal_Tip
+    100156: Witch__R.Pinky_Tip
+    100158: Witch__R.Ring_1
+    100160: Witch__R.Ring_2
+    100162: Witch__R.Ring_3
+    100164: Witch__R.Ring_Metacarpal
+    100166: Witch__R.Ring_Metacarpal_Tip
+    100168: Witch__R.Ring_Tip
+    100170: Witch__R.Shoulder
+    100172: Witch__R.Thumb_1
+    100174: Witch__R.Thumb_2
+    100176: Witch__R.Thumb_3
+    100178: Witch__R.Thumb_Tip
+    100180: Witch__R.UpLeg
+    100182: Witch__R.UpLeg_Roll_1
+    100184: Witch__R.UpLeg_Roll_2
+    100186: Witch__Root
+    100188: Witch__Spine_1
+    100190: Witch__Spine_2
+    100192: Witch__Spine_3
+    100194: Witch__Spine_Tip
+    100196: witchstaff
+    100198: witchstaff (ctrl)
+    100200: witchstaff_Rigging (Folder)
+    100202: witchStuffSecond (ctrl)
+    400000: kotel
+    400002: Texture Group
+    400004: witch
+    400006: //RootNode
+    400008: Witch__Chest
+    400010: Witch__Head
+    400012: Witch__Head_Tip
+    400014: Witch__Hierarchy
+    400016: Witch__Jaw
+    400018: Witch__Jaw_Tip
+    400020: Witch__L.Arm
+    400022: Witch__L.Arm_Roll_1
+    400024: Witch__L.Arm_Roll_2
+    400026: Witch__L.Foot
+    400028: Witch__L.Foot_Tip
+    400030: Witch__L.Foot_Toes
+    400032: Witch__L.ForeArm
+    400034: Witch__L.ForeArm_Roll_1
+    400036: Witch__L.ForeArm_Roll_2
+    400038: Witch__L.Hand
+    400040: Witch__L.Hand_End
+    400042: Witch__L.Index_1
+    400044: Witch__L.Index_2
+    400046: Witch__L.Index_3
+    400048: Witch__L.Index_Tip
+    400050: Witch__L.Leg
+    400052: Witch__L.Leg_Roll_1
+    400054: Witch__L.Middle_1
+    400056: Witch__L.Middle_2
+    400058: Witch__L.Middle_3
+    400060: Witch__L.Middle_Tip
+    400062: Witch__L.Pinky_1
+    400064: Witch__L.Pinky_2
+    400066: Witch__L.Pinky_3
+    400068: Witch__L.Pinky_Metacarpal
+    400070: Witch__L.Pinky_Metacarpal_Tip
+    400072: Witch__L.Pinky_Tip
+    400074: Witch__L.Ring_1
+    400076: Witch__L.Ring_2
+    400078: Witch__L.Ring_3
+    400080: Witch__L.Ring_Metacarpal
+    400082: Witch__L.Ring_Metacarpal_Tip
+    400084: Witch__L.Ring_Tip
+    400086: Witch__L.Shoulder
+    400088: Witch__L.Thumb_1
+    400090: Witch__L.Thumb_2
+    400092: Witch__L.Thumb_3
+    400094: Witch__L.Thumb_Tip
+    400096: Witch__L.UpLeg
+    400098: Witch__L.UpLeg_Roll_1
+    400100: Witch__L.UpLeg_Roll_2
+    400102: Witch__Neck
+    400104: Witch__R.Arm
+    400106: Witch__R.Arm_Roll_1
+    400108: Witch__R.Arm_Roll_2
+    400110: Witch__R.Foot
+    400112: Witch__R.Foot_Tip
+    400114: Witch__R.Foot_Toes
+    400116: Witch__R.ForeArm
+    400118: Witch__R.ForeArm_Roll_1
+    400120: Witch__R.ForeArm_Roll_2
+    400122: Witch__R.Hand
+    400124: Witch__R.Hand_End
+    400126: Witch__R.Index_1
+    400128: Witch__R.Index_2
+    400130: Witch__R.Index_3
+    400132: Witch__R.Index_Tip
+    400134: Witch__R.Leg
+    400136: Witch__R.Leg_Roll_1
+    400138: Witch__R.Middle_1
+    400140: Witch__R.Middle_2
+    400142: Witch__R.Middle_3
+    400144: Witch__R.Middle_Tip
+    400146: Witch__R.Pinky_1
+    400148: Witch__R.Pinky_2
+    400150: Witch__R.Pinky_3
+    400152: Witch__R.Pinky_Metacarpal
+    400154: Witch__R.Pinky_Metacarpal_Tip
+    400156: Witch__R.Pinky_Tip
+    400158: Witch__R.Ring_1
+    400160: Witch__R.Ring_2
+    400162: Witch__R.Ring_3
+    400164: Witch__R.Ring_Metacarpal
+    400166: Witch__R.Ring_Metacarpal_Tip
+    400168: Witch__R.Ring_Tip
+    400170: Witch__R.Shoulder
+    400172: Witch__R.Thumb_1
+    400174: Witch__R.Thumb_2
+    400176: Witch__R.Thumb_3
+    400178: Witch__R.Thumb_Tip
+    400180: Witch__R.UpLeg
+    400182: Witch__R.UpLeg_Roll_1
+    400184: Witch__R.UpLeg_Roll_2
+    400186: Witch__Root
+    400188: Witch__Spine_1
+    400190: Witch__Spine_2
+    400192: Witch__Spine_3
+    400194: Witch__Spine_Tip
+    400196: witchstaff
+    400198: witchstaff (ctrl)
+    400200: witchstaff_Rigging (Folder)
+    400202: witchStuffSecond (ctrl)
+    2300000: kotel
+    2300002: witchstaff
+    3300000: kotel
+    3300002: witchstaff
+    4300000: witchstaff
+    4300002: kotel
+    4300004: witch
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: witch
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 47
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: kotel
+        weight: 1
+      - path: Texture Group
+        weight: 1
+      - path: Witch__Hierarchy
+        weight: 1
+      - path: Witch__Hierarchy/witch
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__L.UpLeg
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__L.UpLeg/Witch__L.UpLeg_Roll_1
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__L.UpLeg/Witch__L.UpLeg_Roll_1/Witch__L.UpLeg_Roll_2
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__L.UpLeg/Witch__L.UpLeg_Roll_1/Witch__L.UpLeg_Roll_2/Witch__L.Leg
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__L.UpLeg/Witch__L.UpLeg_Roll_1/Witch__L.UpLeg_Roll_2/Witch__L.Leg/Witch__L.Leg_Roll_1
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__L.UpLeg/Witch__L.UpLeg_Roll_1/Witch__L.UpLeg_Roll_2/Witch__L.Leg/Witch__L.Leg_Roll_1/Witch__L.Foot
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__L.UpLeg/Witch__L.UpLeg_Roll_1/Witch__L.UpLeg_Roll_2/Witch__L.Leg/Witch__L.Leg_Roll_1/Witch__L.Foot/Witch__L.Foot_Toes
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__L.UpLeg/Witch__L.UpLeg_Roll_1/Witch__L.UpLeg_Roll_2/Witch__L.Leg/Witch__L.Leg_Roll_1/Witch__L.Foot/Witch__L.Foot_Toes/Witch__L.Foot_Tip
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__R.UpLeg
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__R.UpLeg/Witch__R.UpLeg_Roll_1
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__R.UpLeg/Witch__R.UpLeg_Roll_1/Witch__R.UpLeg_Roll_2
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__R.UpLeg/Witch__R.UpLeg_Roll_1/Witch__R.UpLeg_Roll_2/Witch__R.Leg
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__R.UpLeg/Witch__R.UpLeg_Roll_1/Witch__R.UpLeg_Roll_2/Witch__R.Leg/Witch__R.Leg_Roll_1
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__R.UpLeg/Witch__R.UpLeg_Roll_1/Witch__R.UpLeg_Roll_2/Witch__R.Leg/Witch__R.Leg_Roll_1/Witch__R.Foot
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__R.UpLeg/Witch__R.UpLeg_Roll_1/Witch__R.UpLeg_Roll_2/Witch__R.Leg/Witch__R.Leg_Roll_1/Witch__R.Foot/Witch__R.Foot_Toes
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__R.UpLeg/Witch__R.UpLeg_Roll_1/Witch__R.UpLeg_Roll_2/Witch__R.Leg/Witch__R.Leg_Roll_1/Witch__R.Foot/Witch__R.Foot_Toes/Witch__R.Foot_Tip
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__L.Shoulder
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__L.Shoulder/Witch__L.Arm
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__L.Shoulder/Witch__L.Arm/Witch__L.Arm_Roll_1
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__L.Shoulder/Witch__L.Arm/Witch__L.Arm_Roll_1/Witch__L.Arm_Roll_2
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__L.Shoulder/Witch__L.Arm/Witch__L.Arm_Roll_1/Witch__L.Arm_Roll_2/Witch__L.ForeArm
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__L.Shoulder/Witch__L.Arm/Witch__L.Arm_Roll_1/Witch__L.Arm_Roll_2/Witch__L.ForeArm/Witch__L.ForeArm_Roll_1
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__L.Shoulder/Witch__L.Arm/Witch__L.Arm_Roll_1/Witch__L.Arm_Roll_2/Witch__L.ForeArm/Witch__L.ForeArm_Roll_1/Witch__L.ForeArm_Roll_2
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__L.Shoulder/Witch__L.Arm/Witch__L.Arm_Roll_1/Witch__L.Arm_Roll_2/Witch__L.ForeArm/Witch__L.ForeArm_Roll_1/Witch__L.ForeArm_Roll_2/Witch__L.Hand
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__L.Shoulder/Witch__L.Arm/Witch__L.Arm_Roll_1/Witch__L.Arm_Roll_2/Witch__L.ForeArm/Witch__L.ForeArm_Roll_1/Witch__L.ForeArm_Roll_2/Witch__L.Hand/Witch__L.Hand_End
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__L.Shoulder/Witch__L.Arm/Witch__L.Arm_Roll_1/Witch__L.Arm_Roll_2/Witch__L.ForeArm/Witch__L.ForeArm_Roll_1/Witch__L.ForeArm_Roll_2/Witch__L.Hand/Witch__L.Index_1
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__L.Shoulder/Witch__L.Arm/Witch__L.Arm_Roll_1/Witch__L.Arm_Roll_2/Witch__L.ForeArm/Witch__L.ForeArm_Roll_1/Witch__L.ForeArm_Roll_2/Witch__L.Hand/Witch__L.Index_1/Witch__L.Index_2
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__L.Shoulder/Witch__L.Arm/Witch__L.Arm_Roll_1/Witch__L.Arm_Roll_2/Witch__L.ForeArm/Witch__L.ForeArm_Roll_1/Witch__L.ForeArm_Roll_2/Witch__L.Hand/Witch__L.Index_1/Witch__L.Index_2/Witch__L.Index_3
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__L.Shoulder/Witch__L.Arm/Witch__L.Arm_Roll_1/Witch__L.Arm_Roll_2/Witch__L.ForeArm/Witch__L.ForeArm_Roll_1/Witch__L.ForeArm_Roll_2/Witch__L.Hand/Witch__L.Index_1/Witch__L.Index_2/Witch__L.Index_3/Witch__L.Index_Tip
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__L.Shoulder/Witch__L.Arm/Witch__L.Arm_Roll_1/Witch__L.Arm_Roll_2/Witch__L.ForeArm/Witch__L.ForeArm_Roll_1/Witch__L.ForeArm_Roll_2/Witch__L.Hand/Witch__L.Middle_1
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__L.Shoulder/Witch__L.Arm/Witch__L.Arm_Roll_1/Witch__L.Arm_Roll_2/Witch__L.ForeArm/Witch__L.ForeArm_Roll_1/Witch__L.ForeArm_Roll_2/Witch__L.Hand/Witch__L.Middle_1/Witch__L.Middle_2
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__L.Shoulder/Witch__L.Arm/Witch__L.Arm_Roll_1/Witch__L.Arm_Roll_2/Witch__L.ForeArm/Witch__L.ForeArm_Roll_1/Witch__L.ForeArm_Roll_2/Witch__L.Hand/Witch__L.Middle_1/Witch__L.Middle_2/Witch__L.Middle_3
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__L.Shoulder/Witch__L.Arm/Witch__L.Arm_Roll_1/Witch__L.Arm_Roll_2/Witch__L.ForeArm/Witch__L.ForeArm_Roll_1/Witch__L.ForeArm_Roll_2/Witch__L.Hand/Witch__L.Middle_1/Witch__L.Middle_2/Witch__L.Middle_3/Witch__L.Middle_Tip
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__L.Shoulder/Witch__L.Arm/Witch__L.Arm_Roll_1/Witch__L.Arm_Roll_2/Witch__L.ForeArm/Witch__L.ForeArm_Roll_1/Witch__L.ForeArm_Roll_2/Witch__L.Hand/Witch__L.Pinky_1
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__L.Shoulder/Witch__L.Arm/Witch__L.Arm_Roll_1/Witch__L.Arm_Roll_2/Witch__L.ForeArm/Witch__L.ForeArm_Roll_1/Witch__L.ForeArm_Roll_2/Witch__L.Hand/Witch__L.Pinky_1/Witch__L.Pinky_2
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__L.Shoulder/Witch__L.Arm/Witch__L.Arm_Roll_1/Witch__L.Arm_Roll_2/Witch__L.ForeArm/Witch__L.ForeArm_Roll_1/Witch__L.ForeArm_Roll_2/Witch__L.Hand/Witch__L.Pinky_1/Witch__L.Pinky_2/Witch__L.Pinky_3
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__L.Shoulder/Witch__L.Arm/Witch__L.Arm_Roll_1/Witch__L.Arm_Roll_2/Witch__L.ForeArm/Witch__L.ForeArm_Roll_1/Witch__L.ForeArm_Roll_2/Witch__L.Hand/Witch__L.Pinky_1/Witch__L.Pinky_2/Witch__L.Pinky_3/Witch__L.Pinky_Tip
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__L.Shoulder/Witch__L.Arm/Witch__L.Arm_Roll_1/Witch__L.Arm_Roll_2/Witch__L.ForeArm/Witch__L.ForeArm_Roll_1/Witch__L.ForeArm_Roll_2/Witch__L.Hand/Witch__L.Pinky_Metacarpal
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__L.Shoulder/Witch__L.Arm/Witch__L.Arm_Roll_1/Witch__L.Arm_Roll_2/Witch__L.ForeArm/Witch__L.ForeArm_Roll_1/Witch__L.ForeArm_Roll_2/Witch__L.Hand/Witch__L.Pinky_Metacarpal/Witch__L.Pinky_Metacarpal_Tip
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__L.Shoulder/Witch__L.Arm/Witch__L.Arm_Roll_1/Witch__L.Arm_Roll_2/Witch__L.ForeArm/Witch__L.ForeArm_Roll_1/Witch__L.ForeArm_Roll_2/Witch__L.Hand/Witch__L.Ring_1
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__L.Shoulder/Witch__L.Arm/Witch__L.Arm_Roll_1/Witch__L.Arm_Roll_2/Witch__L.ForeArm/Witch__L.ForeArm_Roll_1/Witch__L.ForeArm_Roll_2/Witch__L.Hand/Witch__L.Ring_1/Witch__L.Ring_2
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__L.Shoulder/Witch__L.Arm/Witch__L.Arm_Roll_1/Witch__L.Arm_Roll_2/Witch__L.ForeArm/Witch__L.ForeArm_Roll_1/Witch__L.ForeArm_Roll_2/Witch__L.Hand/Witch__L.Ring_1/Witch__L.Ring_2/Witch__L.Ring_3
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__L.Shoulder/Witch__L.Arm/Witch__L.Arm_Roll_1/Witch__L.Arm_Roll_2/Witch__L.ForeArm/Witch__L.ForeArm_Roll_1/Witch__L.ForeArm_Roll_2/Witch__L.Hand/Witch__L.Ring_1/Witch__L.Ring_2/Witch__L.Ring_3/Witch__L.Ring_Tip
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__L.Shoulder/Witch__L.Arm/Witch__L.Arm_Roll_1/Witch__L.Arm_Roll_2/Witch__L.ForeArm/Witch__L.ForeArm_Roll_1/Witch__L.ForeArm_Roll_2/Witch__L.Hand/Witch__L.Ring_Metacarpal
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__L.Shoulder/Witch__L.Arm/Witch__L.Arm_Roll_1/Witch__L.Arm_Roll_2/Witch__L.ForeArm/Witch__L.ForeArm_Roll_1/Witch__L.ForeArm_Roll_2/Witch__L.Hand/Witch__L.Ring_Metacarpal/Witch__L.Ring_Metacarpal_Tip
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__L.Shoulder/Witch__L.Arm/Witch__L.Arm_Roll_1/Witch__L.Arm_Roll_2/Witch__L.ForeArm/Witch__L.ForeArm_Roll_1/Witch__L.ForeArm_Roll_2/Witch__L.Hand/Witch__L.Thumb_1
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__L.Shoulder/Witch__L.Arm/Witch__L.Arm_Roll_1/Witch__L.Arm_Roll_2/Witch__L.ForeArm/Witch__L.ForeArm_Roll_1/Witch__L.ForeArm_Roll_2/Witch__L.Hand/Witch__L.Thumb_1/Witch__L.Thumb_2
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__L.Shoulder/Witch__L.Arm/Witch__L.Arm_Roll_1/Witch__L.Arm_Roll_2/Witch__L.ForeArm/Witch__L.ForeArm_Roll_1/Witch__L.ForeArm_Roll_2/Witch__L.Hand/Witch__L.Thumb_1/Witch__L.Thumb_2/Witch__L.Thumb_3
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__L.Shoulder/Witch__L.Arm/Witch__L.Arm_Roll_1/Witch__L.Arm_Roll_2/Witch__L.ForeArm/Witch__L.ForeArm_Roll_1/Witch__L.ForeArm_Roll_2/Witch__L.Hand/Witch__L.Thumb_1/Witch__L.Thumb_2/Witch__L.Thumb_3/Witch__L.Thumb_Tip
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__Neck
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__Neck/Witch__Head
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__Neck/Witch__Head/Witch__Head_Tip
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__Neck/Witch__Head/Witch__Jaw
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__Neck/Witch__Head/Witch__Jaw/Witch__Jaw_Tip
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__R.Shoulder
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__R.Shoulder/Witch__R.Arm
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__R.Shoulder/Witch__R.Arm/Witch__R.Arm_Roll_1
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__R.Shoulder/Witch__R.Arm/Witch__R.Arm_Roll_1/Witch__R.Arm_Roll_2
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__R.Shoulder/Witch__R.Arm/Witch__R.Arm_Roll_1/Witch__R.Arm_Roll_2/Witch__R.ForeArm
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__R.Shoulder/Witch__R.Arm/Witch__R.Arm_Roll_1/Witch__R.Arm_Roll_2/Witch__R.ForeArm/Witch__R.ForeArm_Roll_1
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__R.Shoulder/Witch__R.Arm/Witch__R.Arm_Roll_1/Witch__R.Arm_Roll_2/Witch__R.ForeArm/Witch__R.ForeArm_Roll_1/Witch__R.ForeArm_Roll_2
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__R.Shoulder/Witch__R.Arm/Witch__R.Arm_Roll_1/Witch__R.Arm_Roll_2/Witch__R.ForeArm/Witch__R.ForeArm_Roll_1/Witch__R.ForeArm_Roll_2/Witch__R.Hand
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__R.Shoulder/Witch__R.Arm/Witch__R.Arm_Roll_1/Witch__R.Arm_Roll_2/Witch__R.ForeArm/Witch__R.ForeArm_Roll_1/Witch__R.ForeArm_Roll_2/Witch__R.Hand/Witch__R.Hand_End
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__R.Shoulder/Witch__R.Arm/Witch__R.Arm_Roll_1/Witch__R.Arm_Roll_2/Witch__R.ForeArm/Witch__R.ForeArm_Roll_1/Witch__R.ForeArm_Roll_2/Witch__R.Hand/Witch__R.Index_1
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__R.Shoulder/Witch__R.Arm/Witch__R.Arm_Roll_1/Witch__R.Arm_Roll_2/Witch__R.ForeArm/Witch__R.ForeArm_Roll_1/Witch__R.ForeArm_Roll_2/Witch__R.Hand/Witch__R.Index_1/Witch__R.Index_2
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__R.Shoulder/Witch__R.Arm/Witch__R.Arm_Roll_1/Witch__R.Arm_Roll_2/Witch__R.ForeArm/Witch__R.ForeArm_Roll_1/Witch__R.ForeArm_Roll_2/Witch__R.Hand/Witch__R.Index_1/Witch__R.Index_2/Witch__R.Index_3
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__R.Shoulder/Witch__R.Arm/Witch__R.Arm_Roll_1/Witch__R.Arm_Roll_2/Witch__R.ForeArm/Witch__R.ForeArm_Roll_1/Witch__R.ForeArm_Roll_2/Witch__R.Hand/Witch__R.Index_1/Witch__R.Index_2/Witch__R.Index_3/Witch__R.Index_Tip
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__R.Shoulder/Witch__R.Arm/Witch__R.Arm_Roll_1/Witch__R.Arm_Roll_2/Witch__R.ForeArm/Witch__R.ForeArm_Roll_1/Witch__R.ForeArm_Roll_2/Witch__R.Hand/Witch__R.Middle_1
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__R.Shoulder/Witch__R.Arm/Witch__R.Arm_Roll_1/Witch__R.Arm_Roll_2/Witch__R.ForeArm/Witch__R.ForeArm_Roll_1/Witch__R.ForeArm_Roll_2/Witch__R.Hand/Witch__R.Middle_1/Witch__R.Middle_2
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__R.Shoulder/Witch__R.Arm/Witch__R.Arm_Roll_1/Witch__R.Arm_Roll_2/Witch__R.ForeArm/Witch__R.ForeArm_Roll_1/Witch__R.ForeArm_Roll_2/Witch__R.Hand/Witch__R.Middle_1/Witch__R.Middle_2/Witch__R.Middle_3
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__R.Shoulder/Witch__R.Arm/Witch__R.Arm_Roll_1/Witch__R.Arm_Roll_2/Witch__R.ForeArm/Witch__R.ForeArm_Roll_1/Witch__R.ForeArm_Roll_2/Witch__R.Hand/Witch__R.Middle_1/Witch__R.Middle_2/Witch__R.Middle_3/Witch__R.Middle_Tip
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__R.Shoulder/Witch__R.Arm/Witch__R.Arm_Roll_1/Witch__R.Arm_Roll_2/Witch__R.ForeArm/Witch__R.ForeArm_Roll_1/Witch__R.ForeArm_Roll_2/Witch__R.Hand/Witch__R.Pinky_1
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__R.Shoulder/Witch__R.Arm/Witch__R.Arm_Roll_1/Witch__R.Arm_Roll_2/Witch__R.ForeArm/Witch__R.ForeArm_Roll_1/Witch__R.ForeArm_Roll_2/Witch__R.Hand/Witch__R.Pinky_1/Witch__R.Pinky_2
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__R.Shoulder/Witch__R.Arm/Witch__R.Arm_Roll_1/Witch__R.Arm_Roll_2/Witch__R.ForeArm/Witch__R.ForeArm_Roll_1/Witch__R.ForeArm_Roll_2/Witch__R.Hand/Witch__R.Pinky_1/Witch__R.Pinky_2/Witch__R.Pinky_3
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__R.Shoulder/Witch__R.Arm/Witch__R.Arm_Roll_1/Witch__R.Arm_Roll_2/Witch__R.ForeArm/Witch__R.ForeArm_Roll_1/Witch__R.ForeArm_Roll_2/Witch__R.Hand/Witch__R.Pinky_1/Witch__R.Pinky_2/Witch__R.Pinky_3/Witch__R.Pinky_Tip
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__R.Shoulder/Witch__R.Arm/Witch__R.Arm_Roll_1/Witch__R.Arm_Roll_2/Witch__R.ForeArm/Witch__R.ForeArm_Roll_1/Witch__R.ForeArm_Roll_2/Witch__R.Hand/Witch__R.Pinky_Metacarpal
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__R.Shoulder/Witch__R.Arm/Witch__R.Arm_Roll_1/Witch__R.Arm_Roll_2/Witch__R.ForeArm/Witch__R.ForeArm_Roll_1/Witch__R.ForeArm_Roll_2/Witch__R.Hand/Witch__R.Pinky_Metacarpal/Witch__R.Pinky_Metacarpal_Tip
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__R.Shoulder/Witch__R.Arm/Witch__R.Arm_Roll_1/Witch__R.Arm_Roll_2/Witch__R.ForeArm/Witch__R.ForeArm_Roll_1/Witch__R.ForeArm_Roll_2/Witch__R.Hand/Witch__R.Ring_1
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__R.Shoulder/Witch__R.Arm/Witch__R.Arm_Roll_1/Witch__R.Arm_Roll_2/Witch__R.ForeArm/Witch__R.ForeArm_Roll_1/Witch__R.ForeArm_Roll_2/Witch__R.Hand/Witch__R.Ring_1/Witch__R.Ring_2
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__R.Shoulder/Witch__R.Arm/Witch__R.Arm_Roll_1/Witch__R.Arm_Roll_2/Witch__R.ForeArm/Witch__R.ForeArm_Roll_1/Witch__R.ForeArm_Roll_2/Witch__R.Hand/Witch__R.Ring_1/Witch__R.Ring_2/Witch__R.Ring_3
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__R.Shoulder/Witch__R.Arm/Witch__R.Arm_Roll_1/Witch__R.Arm_Roll_2/Witch__R.ForeArm/Witch__R.ForeArm_Roll_1/Witch__R.ForeArm_Roll_2/Witch__R.Hand/Witch__R.Ring_1/Witch__R.Ring_2/Witch__R.Ring_3/Witch__R.Ring_Tip
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__R.Shoulder/Witch__R.Arm/Witch__R.Arm_Roll_1/Witch__R.Arm_Roll_2/Witch__R.ForeArm/Witch__R.ForeArm_Roll_1/Witch__R.ForeArm_Roll_2/Witch__R.Hand/Witch__R.Ring_Metacarpal
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__R.Shoulder/Witch__R.Arm/Witch__R.Arm_Roll_1/Witch__R.Arm_Roll_2/Witch__R.ForeArm/Witch__R.ForeArm_Roll_1/Witch__R.ForeArm_Roll_2/Witch__R.Hand/Witch__R.Ring_Metacarpal/Witch__R.Ring_Metacarpal_Tip
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__R.Shoulder/Witch__R.Arm/Witch__R.Arm_Roll_1/Witch__R.Arm_Roll_2/Witch__R.ForeArm/Witch__R.ForeArm_Roll_1/Witch__R.ForeArm_Roll_2/Witch__R.Hand/Witch__R.Thumb_1
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__R.Shoulder/Witch__R.Arm/Witch__R.Arm_Roll_1/Witch__R.Arm_Roll_2/Witch__R.ForeArm/Witch__R.ForeArm_Roll_1/Witch__R.ForeArm_Roll_2/Witch__R.Hand/Witch__R.Thumb_1/Witch__R.Thumb_2
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__R.Shoulder/Witch__R.Arm/Witch__R.Arm_Roll_1/Witch__R.Arm_Roll_2/Witch__R.ForeArm/Witch__R.ForeArm_Roll_1/Witch__R.ForeArm_Roll_2/Witch__R.Hand/Witch__R.Thumb_1/Witch__R.Thumb_2/Witch__R.Thumb_3
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__R.Shoulder/Witch__R.Arm/Witch__R.Arm_Roll_1/Witch__R.Arm_Roll_2/Witch__R.ForeArm/Witch__R.ForeArm_Roll_1/Witch__R.ForeArm_Roll_2/Witch__R.Hand/Witch__R.Thumb_1/Witch__R.Thumb_2/Witch__R.Thumb_3/Witch__R.Thumb_Tip
+        weight: 1
+      - path: Witch__Hierarchy/Witch__Root/Witch__Spine_1/Witch__Spine_2/Witch__Spine_3/Witch__Chest/Witch__Spine_Tip
+        weight: 1
+      - path: witchstaff
+        weight: 1
+      - path: witchstaff_Rigging (Folder)
+        weight: 1
+      - path: witchstaff_Rigging (Folder)/witchstaff (ctrl)
+        weight: 1
+      - path: witchstaff_Rigging (Folder)/witchstaff (ctrl)/witchStuffSecond (ctrl)
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,542 @@
+fileFormatVersion: 2
+guid: ccf54e1dee1745f47872bd144b12c6ec
+timeCreated: 1443369155
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Chest
+    100002: Pirate
+    100004: pirate__caftan
+    100006: pirate__caftan_base(bind)
+    100008: pirate__caftan_tip
+    100010: pirate__Chest
+    100012: pirate__Head
+    100014: pirate__Head_Tip
+    100016: pirate__Hierarchy
+    100018: pirate__Jaw
+    100020: pirate__Jaw_Tip
+    100022: pirate__L.Arm
+    100024: pirate__L.Arm_Roll_1
+    100026: pirate__L.Arm_Roll_2
+    100028: pirate__L.Eye_LowEyelid
+    100030: pirate__L.Eye_LowEyelid_Tip
+    100032: pirate__L.Eye_Socket
+    100034: pirate__L.Eye_UpEyelid
+    100036: pirate__L.Eye_UpEyelid_Tip
+    100038: pirate__L.Foot
+    100040: pirate__L.Foot_Tip
+    100042: pirate__L.Foot_Toes
+    100044: pirate__L.ForeArm
+    100046: pirate__L.ForeArm_Roll_1
+    100048: pirate__L.ForeArm_Roll_2
+    100050: pirate__L.Hand
+    100052: pirate__L.Hand_End
+    100054: pirate__L.Index_1
+    100056: pirate__L.Index_2
+    100058: pirate__L.Index_3
+    100060: pirate__L.Index_Tip
+    100062: pirate__L.Leg
+    100064: pirate__L.Leg_Roll_1
+    100066: pirate__L.Middle_1
+    100068: pirate__L.Middle_2
+    100070: pirate__L.Middle_3
+    100072: pirate__L.Middle_Tip
+    100074: pirate__L.Pinky_1
+    100076: pirate__L.Pinky_2
+    100078: pirate__L.Pinky_3
+    100080: pirate__L.Pinky_Metacarpal
+    100082: pirate__L.Pinky_Metacarpal_Tip
+    100084: pirate__L.Pinky_Tip
+    100086: pirate__L.Ring_1
+    100088: pirate__L.Ring_2
+    100090: pirate__L.Ring_3
+    100092: pirate__L.Ring_Metacarpal
+    100094: pirate__L.Ring_Metacarpal_Tip
+    100096: pirate__L.Ring_Tip
+    100098: pirate__L.Shoulder
+    100100: pirate__L.Thumb_1
+    100102: pirate__L.Thumb_2
+    100104: pirate__L.Thumb_3
+    100106: pirate__L.Thumb_Tip
+    100108: pirate__L.UpLeg
+    100110: pirate__L.UpLeg_Roll_1
+    100112: pirate__L.UpLeg_Roll_2
+    100114: pirate__Neck
+    100116: pirate__R.Arm
+    100118: pirate__R.Arm_Roll_1
+    100120: pirate__R.Arm_Roll_2
+    100122: pirate__R.Eye_LowEyelid
+    100124: pirate__R.Eye_LowEyelid_Tip
+    100126: pirate__R.Eye_Socket
+    100128: pirate__R.Eye_UpEyelid
+    100130: pirate__R.Eye_UpEyelid_Tip
+    100132: pirate__R.Foot
+    100134: pirate__R.Foot_Tip
+    100136: pirate__R.Foot_Toes
+    100138: pirate__R.ForeArm
+    100140: pirate__R.ForeArm_Roll_1
+    100142: pirate__R.ForeArm_Roll_2
+    100144: pirate__R.Hand
+    100146: pirate__R.Hand_End
+    100148: pirate__R.Index_1
+    100150: pirate__R.Index_2
+    100152: pirate__R.Index_3
+    100154: pirate__R.Index_Tip
+    100156: pirate__R.Leg
+    100158: pirate__R.Leg_Roll_1
+    100160: pirate__R.Middle_1
+    100162: pirate__R.Middle_2
+    100164: pirate__R.Middle_3
+    100166: pirate__R.Middle_Tip
+    100168: pirate__R.Pinky_1
+    100170: pirate__R.Pinky_2
+    100172: pirate__R.Pinky_3
+    100174: pirate__R.Pinky_Metacarpal
+    100176: pirate__R.Pinky_Metacarpal_Tip
+    100178: pirate__R.Pinky_Tip
+    100180: pirate__R.Ring_1
+    100182: pirate__R.Ring_2
+    100184: pirate__R.Ring_3
+    100186: pirate__R.Ring_Metacarpal
+    100188: pirate__R.Ring_Metacarpal_Tip
+    100190: pirate__R.Ring_Tip
+    100192: pirate__R.Shoulder
+    100194: pirate__R.Thumb_1
+    100196: pirate__R.Thumb_2
+    100198: pirate__R.Thumb_3
+    100200: pirate__R.Thumb_Tip
+    100202: pirate__R.UpLeg
+    100204: pirate__R.UpLeg_Roll_1
+    100206: pirate__R.UpLeg_Roll_2
+    100208: pirate__Root
+    100210: pirate__Spine_1
+    100212: pirate__Spine_2
+    100214: pirate__Spine_3
+    100216: pirate__Spine_Tip
+    100218: //RootNode
+    400000: Chest
+    400002: Pirate
+    400004: pirate__caftan
+    400006: pirate__caftan_base(bind)
+    400008: pirate__caftan_tip
+    400010: pirate__Chest
+    400012: pirate__Head
+    400014: pirate__Head_Tip
+    400016: pirate__Hierarchy
+    400018: pirate__Jaw
+    400020: pirate__Jaw_Tip
+    400022: pirate__L.Arm
+    400024: pirate__L.Arm_Roll_1
+    400026: pirate__L.Arm_Roll_2
+    400028: pirate__L.Eye_LowEyelid
+    400030: pirate__L.Eye_LowEyelid_Tip
+    400032: pirate__L.Eye_Socket
+    400034: pirate__L.Eye_UpEyelid
+    400036: pirate__L.Eye_UpEyelid_Tip
+    400038: pirate__L.Foot
+    400040: pirate__L.Foot_Tip
+    400042: pirate__L.Foot_Toes
+    400044: pirate__L.ForeArm
+    400046: pirate__L.ForeArm_Roll_1
+    400048: pirate__L.ForeArm_Roll_2
+    400050: pirate__L.Hand
+    400052: pirate__L.Hand_End
+    400054: pirate__L.Index_1
+    400056: pirate__L.Index_2
+    400058: pirate__L.Index_3
+    400060: pirate__L.Index_Tip
+    400062: pirate__L.Leg
+    400064: pirate__L.Leg_Roll_1
+    400066: pirate__L.Middle_1
+    400068: pirate__L.Middle_2
+    400070: pirate__L.Middle_3
+    400072: pirate__L.Middle_Tip
+    400074: pirate__L.Pinky_1
+    400076: pirate__L.Pinky_2
+    400078: pirate__L.Pinky_3
+    400080: pirate__L.Pinky_Metacarpal
+    400082: pirate__L.Pinky_Metacarpal_Tip
+    400084: pirate__L.Pinky_Tip
+    400086: pirate__L.Ring_1
+    400088: pirate__L.Ring_2
+    400090: pirate__L.Ring_3
+    400092: pirate__L.Ring_Metacarpal
+    400094: pirate__L.Ring_Metacarpal_Tip
+    400096: pirate__L.Ring_Tip
+    400098: pirate__L.Shoulder
+    400100: pirate__L.Thumb_1
+    400102: pirate__L.Thumb_2
+    400104: pirate__L.Thumb_3
+    400106: pirate__L.Thumb_Tip
+    400108: pirate__L.UpLeg
+    400110: pirate__L.UpLeg_Roll_1
+    400112: pirate__L.UpLeg_Roll_2
+    400114: pirate__Neck
+    400116: pirate__R.Arm
+    400118: pirate__R.Arm_Roll_1
+    400120: pirate__R.Arm_Roll_2
+    400122: pirate__R.Eye_LowEyelid
+    400124: pirate__R.Eye_LowEyelid_Tip
+    400126: pirate__R.Eye_Socket
+    400128: pirate__R.Eye_UpEyelid
+    400130: pirate__R.Eye_UpEyelid_Tip
+    400132: pirate__R.Foot
+    400134: pirate__R.Foot_Tip
+    400136: pirate__R.Foot_Toes
+    400138: pirate__R.ForeArm
+    400140: pirate__R.ForeArm_Roll_1
+    400142: pirate__R.ForeArm_Roll_2
+    400144: pirate__R.Hand
+    400146: pirate__R.Hand_End
+    400148: pirate__R.Index_1
+    400150: pirate__R.Index_2
+    400152: pirate__R.Index_3
+    400154: pirate__R.Index_Tip
+    400156: pirate__R.Leg
+    400158: pirate__R.Leg_Roll_1
+    400160: pirate__R.Middle_1
+    400162: pirate__R.Middle_2
+    400164: pirate__R.Middle_3
+    400166: pirate__R.Middle_Tip
+    400168: pirate__R.Pinky_1
+    400170: pirate__R.Pinky_2
+    400172: pirate__R.Pinky_3
+    400174: pirate__R.Pinky_Metacarpal
+    400176: pirate__R.Pinky_Metacarpal_Tip
+    400178: pirate__R.Pinky_Tip
+    400180: pirate__R.Ring_1
+    400182: pirate__R.Ring_2
+    400184: pirate__R.Ring_3
+    400186: pirate__R.Ring_Metacarpal
+    400188: pirate__R.Ring_Metacarpal_Tip
+    400190: pirate__R.Ring_Tip
+    400192: pirate__R.Shoulder
+    400194: pirate__R.Thumb_1
+    400196: pirate__R.Thumb_2
+    400198: pirate__R.Thumb_3
+    400200: pirate__R.Thumb_Tip
+    400202: pirate__R.UpLeg
+    400204: pirate__R.UpLeg_Roll_1
+    400206: pirate__R.UpLeg_Roll_2
+    400208: pirate__Root
+    400210: pirate__Spine_1
+    400212: pirate__Spine_2
+    400214: pirate__Spine_3
+    400216: pirate__Spine_Tip
+    400218: //RootNode
+    2300000: Chest
+    3300000: Chest
+    4300000: Pirate
+    4300002: Chest
+    7400000: PirateIdle
+    9500000: //RootNode
+    13700000: Pirate
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: PirateIdle
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 80
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Chest
+        weight: 1
+      - path: pirate__Hierarchy
+        weight: 1
+      - path: pirate__Hierarchy/Pirate
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__caftan_base(bind)
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__caftan_base(bind)/pirate__caftan
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__caftan_base(bind)/pirate__caftan/pirate__caftan_tip
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__L.UpLeg
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__L.UpLeg/pirate__L.UpLeg_Roll_1
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__L.UpLeg/pirate__L.UpLeg_Roll_1/pirate__L.UpLeg_Roll_2
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__L.UpLeg/pirate__L.UpLeg_Roll_1/pirate__L.UpLeg_Roll_2/pirate__L.Leg
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__L.UpLeg/pirate__L.UpLeg_Roll_1/pirate__L.UpLeg_Roll_2/pirate__L.Leg/pirate__L.Leg_Roll_1
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__L.UpLeg/pirate__L.UpLeg_Roll_1/pirate__L.UpLeg_Roll_2/pirate__L.Leg/pirate__L.Leg_Roll_1/pirate__L.Foot
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__L.UpLeg/pirate__L.UpLeg_Roll_1/pirate__L.UpLeg_Roll_2/pirate__L.Leg/pirate__L.Leg_Roll_1/pirate__L.Foot/pirate__L.Foot_Toes
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__L.UpLeg/pirate__L.UpLeg_Roll_1/pirate__L.UpLeg_Roll_2/pirate__L.Leg/pirate__L.Leg_Roll_1/pirate__L.Foot/pirate__L.Foot_Toes/pirate__L.Foot_Tip
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__R.UpLeg
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__R.UpLeg/pirate__R.UpLeg_Roll_1
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__R.UpLeg/pirate__R.UpLeg_Roll_1/pirate__R.UpLeg_Roll_2
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__R.UpLeg/pirate__R.UpLeg_Roll_1/pirate__R.UpLeg_Roll_2/pirate__R.Leg
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__R.UpLeg/pirate__R.UpLeg_Roll_1/pirate__R.UpLeg_Roll_2/pirate__R.Leg/pirate__R.Leg_Roll_1
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__R.UpLeg/pirate__R.UpLeg_Roll_1/pirate__R.UpLeg_Roll_2/pirate__R.Leg/pirate__R.Leg_Roll_1/pirate__R.Foot
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__R.UpLeg/pirate__R.UpLeg_Roll_1/pirate__R.UpLeg_Roll_2/pirate__R.Leg/pirate__R.Leg_Roll_1/pirate__R.Foot/pirate__R.Foot_Toes
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__R.UpLeg/pirate__R.UpLeg_Roll_1/pirate__R.UpLeg_Roll_2/pirate__R.Leg/pirate__R.Leg_Roll_1/pirate__R.Foot/pirate__R.Foot_Toes/pirate__R.Foot_Tip
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__L.Shoulder
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__L.Shoulder/pirate__L.Arm
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__L.Shoulder/pirate__L.Arm/pirate__L.Arm_Roll_1
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__L.Shoulder/pirate__L.Arm/pirate__L.Arm_Roll_1/pirate__L.Arm_Roll_2
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__L.Shoulder/pirate__L.Arm/pirate__L.Arm_Roll_1/pirate__L.Arm_Roll_2/pirate__L.ForeArm
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__L.Shoulder/pirate__L.Arm/pirate__L.Arm_Roll_1/pirate__L.Arm_Roll_2/pirate__L.ForeArm/pirate__L.ForeArm_Roll_1
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__L.Shoulder/pirate__L.Arm/pirate__L.Arm_Roll_1/pirate__L.Arm_Roll_2/pirate__L.ForeArm/pirate__L.ForeArm_Roll_1/pirate__L.ForeArm_Roll_2
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__L.Shoulder/pirate__L.Arm/pirate__L.Arm_Roll_1/pirate__L.Arm_Roll_2/pirate__L.ForeArm/pirate__L.ForeArm_Roll_1/pirate__L.ForeArm_Roll_2/pirate__L.Hand
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__L.Shoulder/pirate__L.Arm/pirate__L.Arm_Roll_1/pirate__L.Arm_Roll_2/pirate__L.ForeArm/pirate__L.ForeArm_Roll_1/pirate__L.ForeArm_Roll_2/pirate__L.Hand/pirate__L.Hand_End
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__L.Shoulder/pirate__L.Arm/pirate__L.Arm_Roll_1/pirate__L.Arm_Roll_2/pirate__L.ForeArm/pirate__L.ForeArm_Roll_1/pirate__L.ForeArm_Roll_2/pirate__L.Hand/pirate__L.Index_1
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__L.Shoulder/pirate__L.Arm/pirate__L.Arm_Roll_1/pirate__L.Arm_Roll_2/pirate__L.ForeArm/pirate__L.ForeArm_Roll_1/pirate__L.ForeArm_Roll_2/pirate__L.Hand/pirate__L.Index_1/pirate__L.Index_2
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__L.Shoulder/pirate__L.Arm/pirate__L.Arm_Roll_1/pirate__L.Arm_Roll_2/pirate__L.ForeArm/pirate__L.ForeArm_Roll_1/pirate__L.ForeArm_Roll_2/pirate__L.Hand/pirate__L.Index_1/pirate__L.Index_2/pirate__L.Index_3
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__L.Shoulder/pirate__L.Arm/pirate__L.Arm_Roll_1/pirate__L.Arm_Roll_2/pirate__L.ForeArm/pirate__L.ForeArm_Roll_1/pirate__L.ForeArm_Roll_2/pirate__L.Hand/pirate__L.Index_1/pirate__L.Index_2/pirate__L.Index_3/pirate__L.Index_Tip
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__L.Shoulder/pirate__L.Arm/pirate__L.Arm_Roll_1/pirate__L.Arm_Roll_2/pirate__L.ForeArm/pirate__L.ForeArm_Roll_1/pirate__L.ForeArm_Roll_2/pirate__L.Hand/pirate__L.Middle_1
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__L.Shoulder/pirate__L.Arm/pirate__L.Arm_Roll_1/pirate__L.Arm_Roll_2/pirate__L.ForeArm/pirate__L.ForeArm_Roll_1/pirate__L.ForeArm_Roll_2/pirate__L.Hand/pirate__L.Middle_1/pirate__L.Middle_2
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__L.Shoulder/pirate__L.Arm/pirate__L.Arm_Roll_1/pirate__L.Arm_Roll_2/pirate__L.ForeArm/pirate__L.ForeArm_Roll_1/pirate__L.ForeArm_Roll_2/pirate__L.Hand/pirate__L.Middle_1/pirate__L.Middle_2/pirate__L.Middle_3
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__L.Shoulder/pirate__L.Arm/pirate__L.Arm_Roll_1/pirate__L.Arm_Roll_2/pirate__L.ForeArm/pirate__L.ForeArm_Roll_1/pirate__L.ForeArm_Roll_2/pirate__L.Hand/pirate__L.Middle_1/pirate__L.Middle_2/pirate__L.Middle_3/pirate__L.Middle_Tip
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__L.Shoulder/pirate__L.Arm/pirate__L.Arm_Roll_1/pirate__L.Arm_Roll_2/pirate__L.ForeArm/pirate__L.ForeArm_Roll_1/pirate__L.ForeArm_Roll_2/pirate__L.Hand/pirate__L.Pinky_1
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__L.Shoulder/pirate__L.Arm/pirate__L.Arm_Roll_1/pirate__L.Arm_Roll_2/pirate__L.ForeArm/pirate__L.ForeArm_Roll_1/pirate__L.ForeArm_Roll_2/pirate__L.Hand/pirate__L.Pinky_1/pirate__L.Pinky_2
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__L.Shoulder/pirate__L.Arm/pirate__L.Arm_Roll_1/pirate__L.Arm_Roll_2/pirate__L.ForeArm/pirate__L.ForeArm_Roll_1/pirate__L.ForeArm_Roll_2/pirate__L.Hand/pirate__L.Pinky_1/pirate__L.Pinky_2/pirate__L.Pinky_3
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__L.Shoulder/pirate__L.Arm/pirate__L.Arm_Roll_1/pirate__L.Arm_Roll_2/pirate__L.ForeArm/pirate__L.ForeArm_Roll_1/pirate__L.ForeArm_Roll_2/pirate__L.Hand/pirate__L.Pinky_1/pirate__L.Pinky_2/pirate__L.Pinky_3/pirate__L.Pinky_Tip
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__L.Shoulder/pirate__L.Arm/pirate__L.Arm_Roll_1/pirate__L.Arm_Roll_2/pirate__L.ForeArm/pirate__L.ForeArm_Roll_1/pirate__L.ForeArm_Roll_2/pirate__L.Hand/pirate__L.Pinky_Metacarpal
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__L.Shoulder/pirate__L.Arm/pirate__L.Arm_Roll_1/pirate__L.Arm_Roll_2/pirate__L.ForeArm/pirate__L.ForeArm_Roll_1/pirate__L.ForeArm_Roll_2/pirate__L.Hand/pirate__L.Pinky_Metacarpal/pirate__L.Pinky_Metacarpal_Tip
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__L.Shoulder/pirate__L.Arm/pirate__L.Arm_Roll_1/pirate__L.Arm_Roll_2/pirate__L.ForeArm/pirate__L.ForeArm_Roll_1/pirate__L.ForeArm_Roll_2/pirate__L.Hand/pirate__L.Ring_1
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__L.Shoulder/pirate__L.Arm/pirate__L.Arm_Roll_1/pirate__L.Arm_Roll_2/pirate__L.ForeArm/pirate__L.ForeArm_Roll_1/pirate__L.ForeArm_Roll_2/pirate__L.Hand/pirate__L.Ring_1/pirate__L.Ring_2
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__L.Shoulder/pirate__L.Arm/pirate__L.Arm_Roll_1/pirate__L.Arm_Roll_2/pirate__L.ForeArm/pirate__L.ForeArm_Roll_1/pirate__L.ForeArm_Roll_2/pirate__L.Hand/pirate__L.Ring_1/pirate__L.Ring_2/pirate__L.Ring_3
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__L.Shoulder/pirate__L.Arm/pirate__L.Arm_Roll_1/pirate__L.Arm_Roll_2/pirate__L.ForeArm/pirate__L.ForeArm_Roll_1/pirate__L.ForeArm_Roll_2/pirate__L.Hand/pirate__L.Ring_1/pirate__L.Ring_2/pirate__L.Ring_3/pirate__L.Ring_Tip
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__L.Shoulder/pirate__L.Arm/pirate__L.Arm_Roll_1/pirate__L.Arm_Roll_2/pirate__L.ForeArm/pirate__L.ForeArm_Roll_1/pirate__L.ForeArm_Roll_2/pirate__L.Hand/pirate__L.Ring_Metacarpal
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__L.Shoulder/pirate__L.Arm/pirate__L.Arm_Roll_1/pirate__L.Arm_Roll_2/pirate__L.ForeArm/pirate__L.ForeArm_Roll_1/pirate__L.ForeArm_Roll_2/pirate__L.Hand/pirate__L.Ring_Metacarpal/pirate__L.Ring_Metacarpal_Tip
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__L.Shoulder/pirate__L.Arm/pirate__L.Arm_Roll_1/pirate__L.Arm_Roll_2/pirate__L.ForeArm/pirate__L.ForeArm_Roll_1/pirate__L.ForeArm_Roll_2/pirate__L.Hand/pirate__L.Thumb_1
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__L.Shoulder/pirate__L.Arm/pirate__L.Arm_Roll_1/pirate__L.Arm_Roll_2/pirate__L.ForeArm/pirate__L.ForeArm_Roll_1/pirate__L.ForeArm_Roll_2/pirate__L.Hand/pirate__L.Thumb_1/pirate__L.Thumb_2
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__L.Shoulder/pirate__L.Arm/pirate__L.Arm_Roll_1/pirate__L.Arm_Roll_2/pirate__L.ForeArm/pirate__L.ForeArm_Roll_1/pirate__L.ForeArm_Roll_2/pirate__L.Hand/pirate__L.Thumb_1/pirate__L.Thumb_2/pirate__L.Thumb_3
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__L.Shoulder/pirate__L.Arm/pirate__L.Arm_Roll_1/pirate__L.Arm_Roll_2/pirate__L.ForeArm/pirate__L.ForeArm_Roll_1/pirate__L.ForeArm_Roll_2/pirate__L.Hand/pirate__L.Thumb_1/pirate__L.Thumb_2/pirate__L.Thumb_3/pirate__L.Thumb_Tip
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__Neck
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__Neck/pirate__Head
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__Neck/pirate__Head/pirate__Head_Tip
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__Neck/pirate__Head/pirate__Jaw
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__Neck/pirate__Head/pirate__Jaw/pirate__Jaw_Tip
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__Neck/pirate__Head/pirate__L.Eye_LowEyelid
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__Neck/pirate__Head/pirate__L.Eye_LowEyelid/pirate__L.Eye_LowEyelid_Tip
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__Neck/pirate__Head/pirate__L.Eye_Socket
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__Neck/pirate__Head/pirate__L.Eye_UpEyelid
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__Neck/pirate__Head/pirate__L.Eye_UpEyelid/pirate__L.Eye_UpEyelid_Tip
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__Neck/pirate__Head/pirate__R.Eye_LowEyelid
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__Neck/pirate__Head/pirate__R.Eye_LowEyelid/pirate__R.Eye_LowEyelid_Tip
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__Neck/pirate__Head/pirate__R.Eye_Socket
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__Neck/pirate__Head/pirate__R.Eye_UpEyelid
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__Neck/pirate__Head/pirate__R.Eye_UpEyelid/pirate__R.Eye_UpEyelid_Tip
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__R.Shoulder
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__R.Shoulder/pirate__R.Arm
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__R.Shoulder/pirate__R.Arm/pirate__R.Arm_Roll_1
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__R.Shoulder/pirate__R.Arm/pirate__R.Arm_Roll_1/pirate__R.Arm_Roll_2
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__R.Shoulder/pirate__R.Arm/pirate__R.Arm_Roll_1/pirate__R.Arm_Roll_2/pirate__R.ForeArm
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__R.Shoulder/pirate__R.Arm/pirate__R.Arm_Roll_1/pirate__R.Arm_Roll_2/pirate__R.ForeArm/pirate__R.ForeArm_Roll_1
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__R.Shoulder/pirate__R.Arm/pirate__R.Arm_Roll_1/pirate__R.Arm_Roll_2/pirate__R.ForeArm/pirate__R.ForeArm_Roll_1/pirate__R.ForeArm_Roll_2
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__R.Shoulder/pirate__R.Arm/pirate__R.Arm_Roll_1/pirate__R.Arm_Roll_2/pirate__R.ForeArm/pirate__R.ForeArm_Roll_1/pirate__R.ForeArm_Roll_2/pirate__R.Hand
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__R.Shoulder/pirate__R.Arm/pirate__R.Arm_Roll_1/pirate__R.Arm_Roll_2/pirate__R.ForeArm/pirate__R.ForeArm_Roll_1/pirate__R.ForeArm_Roll_2/pirate__R.Hand/pirate__R.Hand_End
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__R.Shoulder/pirate__R.Arm/pirate__R.Arm_Roll_1/pirate__R.Arm_Roll_2/pirate__R.ForeArm/pirate__R.ForeArm_Roll_1/pirate__R.ForeArm_Roll_2/pirate__R.Hand/pirate__R.Index_1
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__R.Shoulder/pirate__R.Arm/pirate__R.Arm_Roll_1/pirate__R.Arm_Roll_2/pirate__R.ForeArm/pirate__R.ForeArm_Roll_1/pirate__R.ForeArm_Roll_2/pirate__R.Hand/pirate__R.Index_1/pirate__R.Index_2
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__R.Shoulder/pirate__R.Arm/pirate__R.Arm_Roll_1/pirate__R.Arm_Roll_2/pirate__R.ForeArm/pirate__R.ForeArm_Roll_1/pirate__R.ForeArm_Roll_2/pirate__R.Hand/pirate__R.Index_1/pirate__R.Index_2/pirate__R.Index_3
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__R.Shoulder/pirate__R.Arm/pirate__R.Arm_Roll_1/pirate__R.Arm_Roll_2/pirate__R.ForeArm/pirate__R.ForeArm_Roll_1/pirate__R.ForeArm_Roll_2/pirate__R.Hand/pirate__R.Index_1/pirate__R.Index_2/pirate__R.Index_3/pirate__R.Index_Tip
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__R.Shoulder/pirate__R.Arm/pirate__R.Arm_Roll_1/pirate__R.Arm_Roll_2/pirate__R.ForeArm/pirate__R.ForeArm_Roll_1/pirate__R.ForeArm_Roll_2/pirate__R.Hand/pirate__R.Middle_1
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__R.Shoulder/pirate__R.Arm/pirate__R.Arm_Roll_1/pirate__R.Arm_Roll_2/pirate__R.ForeArm/pirate__R.ForeArm_Roll_1/pirate__R.ForeArm_Roll_2/pirate__R.Hand/pirate__R.Middle_1/pirate__R.Middle_2
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__R.Shoulder/pirate__R.Arm/pirate__R.Arm_Roll_1/pirate__R.Arm_Roll_2/pirate__R.ForeArm/pirate__R.ForeArm_Roll_1/pirate__R.ForeArm_Roll_2/pirate__R.Hand/pirate__R.Middle_1/pirate__R.Middle_2/pirate__R.Middle_3
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__R.Shoulder/pirate__R.Arm/pirate__R.Arm_Roll_1/pirate__R.Arm_Roll_2/pirate__R.ForeArm/pirate__R.ForeArm_Roll_1/pirate__R.ForeArm_Roll_2/pirate__R.Hand/pirate__R.Middle_1/pirate__R.Middle_2/pirate__R.Middle_3/pirate__R.Middle_Tip
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__R.Shoulder/pirate__R.Arm/pirate__R.Arm_Roll_1/pirate__R.Arm_Roll_2/pirate__R.ForeArm/pirate__R.ForeArm_Roll_1/pirate__R.ForeArm_Roll_2/pirate__R.Hand/pirate__R.Pinky_1
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__R.Shoulder/pirate__R.Arm/pirate__R.Arm_Roll_1/pirate__R.Arm_Roll_2/pirate__R.ForeArm/pirate__R.ForeArm_Roll_1/pirate__R.ForeArm_Roll_2/pirate__R.Hand/pirate__R.Pinky_1/pirate__R.Pinky_2
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__R.Shoulder/pirate__R.Arm/pirate__R.Arm_Roll_1/pirate__R.Arm_Roll_2/pirate__R.ForeArm/pirate__R.ForeArm_Roll_1/pirate__R.ForeArm_Roll_2/pirate__R.Hand/pirate__R.Pinky_1/pirate__R.Pinky_2/pirate__R.Pinky_3
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__R.Shoulder/pirate__R.Arm/pirate__R.Arm_Roll_1/pirate__R.Arm_Roll_2/pirate__R.ForeArm/pirate__R.ForeArm_Roll_1/pirate__R.ForeArm_Roll_2/pirate__R.Hand/pirate__R.Pinky_1/pirate__R.Pinky_2/pirate__R.Pinky_3/pirate__R.Pinky_Tip
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__R.Shoulder/pirate__R.Arm/pirate__R.Arm_Roll_1/pirate__R.Arm_Roll_2/pirate__R.ForeArm/pirate__R.ForeArm_Roll_1/pirate__R.ForeArm_Roll_2/pirate__R.Hand/pirate__R.Pinky_Metacarpal
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__R.Shoulder/pirate__R.Arm/pirate__R.Arm_Roll_1/pirate__R.Arm_Roll_2/pirate__R.ForeArm/pirate__R.ForeArm_Roll_1/pirate__R.ForeArm_Roll_2/pirate__R.Hand/pirate__R.Pinky_Metacarpal/pirate__R.Pinky_Metacarpal_Tip
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__R.Shoulder/pirate__R.Arm/pirate__R.Arm_Roll_1/pirate__R.Arm_Roll_2/pirate__R.ForeArm/pirate__R.ForeArm_Roll_1/pirate__R.ForeArm_Roll_2/pirate__R.Hand/pirate__R.Ring_1
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__R.Shoulder/pirate__R.Arm/pirate__R.Arm_Roll_1/pirate__R.Arm_Roll_2/pirate__R.ForeArm/pirate__R.ForeArm_Roll_1/pirate__R.ForeArm_Roll_2/pirate__R.Hand/pirate__R.Ring_1/pirate__R.Ring_2
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__R.Shoulder/pirate__R.Arm/pirate__R.Arm_Roll_1/pirate__R.Arm_Roll_2/pirate__R.ForeArm/pirate__R.ForeArm_Roll_1/pirate__R.ForeArm_Roll_2/pirate__R.Hand/pirate__R.Ring_1/pirate__R.Ring_2/pirate__R.Ring_3
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__R.Shoulder/pirate__R.Arm/pirate__R.Arm_Roll_1/pirate__R.Arm_Roll_2/pirate__R.ForeArm/pirate__R.ForeArm_Roll_1/pirate__R.ForeArm_Roll_2/pirate__R.Hand/pirate__R.Ring_1/pirate__R.Ring_2/pirate__R.Ring_3/pirate__R.Ring_Tip
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__R.Shoulder/pirate__R.Arm/pirate__R.Arm_Roll_1/pirate__R.Arm_Roll_2/pirate__R.ForeArm/pirate__R.ForeArm_Roll_1/pirate__R.ForeArm_Roll_2/pirate__R.Hand/pirate__R.Ring_Metacarpal
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__R.Shoulder/pirate__R.Arm/pirate__R.Arm_Roll_1/pirate__R.Arm_Roll_2/pirate__R.ForeArm/pirate__R.ForeArm_Roll_1/pirate__R.ForeArm_Roll_2/pirate__R.Hand/pirate__R.Ring_Metacarpal/pirate__R.Ring_Metacarpal_Tip
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__R.Shoulder/pirate__R.Arm/pirate__R.Arm_Roll_1/pirate__R.Arm_Roll_2/pirate__R.ForeArm/pirate__R.ForeArm_Roll_1/pirate__R.ForeArm_Roll_2/pirate__R.Hand/pirate__R.Thumb_1
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__R.Shoulder/pirate__R.Arm/pirate__R.Arm_Roll_1/pirate__R.Arm_Roll_2/pirate__R.ForeArm/pirate__R.ForeArm_Roll_1/pirate__R.ForeArm_Roll_2/pirate__R.Hand/pirate__R.Thumb_1/pirate__R.Thumb_2
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__R.Shoulder/pirate__R.Arm/pirate__R.Arm_Roll_1/pirate__R.Arm_Roll_2/pirate__R.ForeArm/pirate__R.ForeArm_Roll_1/pirate__R.ForeArm_Roll_2/pirate__R.Hand/pirate__R.Thumb_1/pirate__R.Thumb_2/pirate__R.Thumb_3
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__R.Shoulder/pirate__R.Arm/pirate__R.Arm_Roll_1/pirate__R.Arm_Roll_2/pirate__R.ForeArm/pirate__R.ForeArm_Roll_1/pirate__R.ForeArm_Roll_2/pirate__R.Hand/pirate__R.Thumb_1/pirate__R.Thumb_2/pirate__R.Thumb_3/pirate__R.Thumb_Tip
+        weight: 1
+      - path: pirate__Hierarchy/pirate__Root/pirate__Spine_1/pirate__Spine_2/pirate__Spine_3/pirate__Chest/pirate__Spine_Tip
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

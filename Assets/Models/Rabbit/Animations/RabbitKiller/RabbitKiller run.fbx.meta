@@ -1,0 +1,283 @@
+fileFormatVersion: 2
+guid: aacedb3ad5192244abd5c6e0e5bd59fe
+timeCreated: 1442047581
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: RabbitKiller
+    100002: //RootNode
+    100004: RabbitKiller__Chest
+    100006: RabbitKiller__Head
+    100008: RabbitKiller__Jaw
+    100010: RabbitKiller__L.Arm
+    100012: RabbitKiller__L.Arm_Roll_1
+    100014: RabbitKiller__L.Arm_Roll_2
+    100016: RabbitKiller__L.Ear_1
+    100018: RabbitKiller__L.Ear_2
+    100020: RabbitKiller__L.Ear_3
+    100022: RabbitKiller__L.Ear_4
+    100024: RabbitKiller__L.Foot
+    100026: RabbitKiller__L.Foot_Toes
+    100028: RabbitKiller__L.ForeArm
+    100030: RabbitKiller__L.ForeArm_Roll_1
+    100032: RabbitKiller__L.ForeArm_Roll_2
+    100034: RabbitKiller__L.Leg
+    100036: RabbitKiller__L.Leg_Roll_1
+    100038: RabbitKiller__L.Shoulder
+    100040: RabbitKiller__L.UpLeg
+    100042: RabbitKiller__L.UpLeg_Roll_1
+    100044: RabbitKiller__L.UpLeg_Roll_2
+    100046: RabbitKiller__Neck
+    100048: RabbitKiller__R.Arm
+    100050: RabbitKiller__R.Arm_Roll_1
+    100052: RabbitKiller__R.Arm_Roll_2
+    100054: RabbitKiller__R.Ear_1
+    100056: RabbitKiller__R.Ear_2
+    100058: RabbitKiller__R.Ear_3
+    100060: RabbitKiller__R.Ear_4
+    100062: RabbitKiller__R.Foot
+    100064: RabbitKiller__R.Foot_Toes
+    100066: RabbitKiller__R.ForeArm
+    100068: RabbitKiller__R.ForeArm_Roll_1
+    100070: RabbitKiller__R.ForeArm_Roll_2
+    100072: RabbitKiller__R.Leg
+    100074: RabbitKiller__R.Leg_Roll_1
+    100076: RabbitKiller__R.Shoulder
+    100078: RabbitKiller__R.UpLeg
+    100080: RabbitKiller__R.UpLeg_Roll_1
+    100082: RabbitKiller__R.UpLeg_Roll_2
+    100084: RabbitKiller__Root
+    100086: RabbitKiller__Spine_1
+    100088: RabbitKiller__Spine_2
+    100090: RabbitKiller__Spine_3
+    400000: RabbitKiller
+    400002: //RootNode
+    400004: RabbitKiller__Chest
+    400006: RabbitKiller__Head
+    400008: RabbitKiller__Jaw
+    400010: RabbitKiller__L.Arm
+    400012: RabbitKiller__L.Arm_Roll_1
+    400014: RabbitKiller__L.Arm_Roll_2
+    400016: RabbitKiller__L.Ear_1
+    400018: RabbitKiller__L.Ear_2
+    400020: RabbitKiller__L.Ear_3
+    400022: RabbitKiller__L.Ear_4
+    400024: RabbitKiller__L.Foot
+    400026: RabbitKiller__L.Foot_Toes
+    400028: RabbitKiller__L.ForeArm
+    400030: RabbitKiller__L.ForeArm_Roll_1
+    400032: RabbitKiller__L.ForeArm_Roll_2
+    400034: RabbitKiller__L.Leg
+    400036: RabbitKiller__L.Leg_Roll_1
+    400038: RabbitKiller__L.Shoulder
+    400040: RabbitKiller__L.UpLeg
+    400042: RabbitKiller__L.UpLeg_Roll_1
+    400044: RabbitKiller__L.UpLeg_Roll_2
+    400046: RabbitKiller__Neck
+    400048: RabbitKiller__R.Arm
+    400050: RabbitKiller__R.Arm_Roll_1
+    400052: RabbitKiller__R.Arm_Roll_2
+    400054: RabbitKiller__R.Ear_1
+    400056: RabbitKiller__R.Ear_2
+    400058: RabbitKiller__R.Ear_3
+    400060: RabbitKiller__R.Ear_4
+    400062: RabbitKiller__R.Foot
+    400064: RabbitKiller__R.Foot_Toes
+    400066: RabbitKiller__R.ForeArm
+    400068: RabbitKiller__R.ForeArm_Roll_1
+    400070: RabbitKiller__R.ForeArm_Roll_2
+    400072: RabbitKiller__R.Leg
+    400074: RabbitKiller__R.Leg_Roll_1
+    400076: RabbitKiller__R.Shoulder
+    400078: RabbitKiller__R.UpLeg
+    400080: RabbitKiller__R.UpLeg_Roll_1
+    400082: RabbitKiller__R.UpLeg_Roll_2
+    400084: RabbitKiller__Root
+    400086: RabbitKiller__Spine_1
+    400088: RabbitKiller__Spine_2
+    400090: RabbitKiller__Spine_3
+    4300000: RabbitKiller
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: RabbitKiller
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Take 001
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: RabbitKiller
+        weight: 1
+      - path: RabbitKiller__Root
+        weight: 1
+      - path: RabbitKiller__Root/RabbitKiller__L.UpLeg
+        weight: 1
+      - path: RabbitKiller__Root/RabbitKiller__L.UpLeg/RabbitKiller__L.UpLeg_Roll_1
+        weight: 1
+      - path: RabbitKiller__Root/RabbitKiller__L.UpLeg/RabbitKiller__L.UpLeg_Roll_1/RabbitKiller__L.UpLeg_Roll_2
+        weight: 1
+      - path: RabbitKiller__Root/RabbitKiller__L.UpLeg/RabbitKiller__L.UpLeg_Roll_1/RabbitKiller__L.UpLeg_Roll_2/RabbitKiller__L.Leg
+        weight: 1
+      - path: RabbitKiller__Root/RabbitKiller__L.UpLeg/RabbitKiller__L.UpLeg_Roll_1/RabbitKiller__L.UpLeg_Roll_2/RabbitKiller__L.Leg/RabbitKiller__L.Leg_Roll_1
+        weight: 1
+      - path: RabbitKiller__Root/RabbitKiller__L.UpLeg/RabbitKiller__L.UpLeg_Roll_1/RabbitKiller__L.UpLeg_Roll_2/RabbitKiller__L.Leg/RabbitKiller__L.Leg_Roll_1/RabbitKiller__L.Foot
+        weight: 1
+      - path: RabbitKiller__Root/RabbitKiller__L.UpLeg/RabbitKiller__L.UpLeg_Roll_1/RabbitKiller__L.UpLeg_Roll_2/RabbitKiller__L.Leg/RabbitKiller__L.Leg_Roll_1/RabbitKiller__L.Foot/RabbitKiller__L.Foot_Toes
+        weight: 1
+      - path: RabbitKiller__Root/RabbitKiller__R.UpLeg
+        weight: 1
+      - path: RabbitKiller__Root/RabbitKiller__R.UpLeg/RabbitKiller__R.UpLeg_Roll_1
+        weight: 1
+      - path: RabbitKiller__Root/RabbitKiller__R.UpLeg/RabbitKiller__R.UpLeg_Roll_1/RabbitKiller__R.UpLeg_Roll_2
+        weight: 1
+      - path: RabbitKiller__Root/RabbitKiller__R.UpLeg/RabbitKiller__R.UpLeg_Roll_1/RabbitKiller__R.UpLeg_Roll_2/RabbitKiller__R.Leg
+        weight: 1
+      - path: RabbitKiller__Root/RabbitKiller__R.UpLeg/RabbitKiller__R.UpLeg_Roll_1/RabbitKiller__R.UpLeg_Roll_2/RabbitKiller__R.Leg/RabbitKiller__R.Leg_Roll_1
+        weight: 1
+      - path: RabbitKiller__Root/RabbitKiller__R.UpLeg/RabbitKiller__R.UpLeg_Roll_1/RabbitKiller__R.UpLeg_Roll_2/RabbitKiller__R.Leg/RabbitKiller__R.Leg_Roll_1/RabbitKiller__R.Foot
+        weight: 1
+      - path: RabbitKiller__Root/RabbitKiller__R.UpLeg/RabbitKiller__R.UpLeg_Roll_1/RabbitKiller__R.UpLeg_Roll_2/RabbitKiller__R.Leg/RabbitKiller__R.Leg_Roll_1/RabbitKiller__R.Foot/RabbitKiller__R.Foot_Toes
+        weight: 1
+      - path: RabbitKiller__Root/RabbitKiller__Spine_1
+        weight: 1
+      - path: RabbitKiller__Root/RabbitKiller__Spine_1/RabbitKiller__Spine_2
+        weight: 1
+      - path: RabbitKiller__Root/RabbitKiller__Spine_1/RabbitKiller__Spine_2/RabbitKiller__Spine_3
+        weight: 1
+      - path: RabbitKiller__Root/RabbitKiller__Spine_1/RabbitKiller__Spine_2/RabbitKiller__Spine_3/RabbitKiller__Chest
+        weight: 1
+      - path: RabbitKiller__Root/RabbitKiller__Spine_1/RabbitKiller__Spine_2/RabbitKiller__Spine_3/RabbitKiller__Chest/RabbitKiller__L.Shoulder
+        weight: 1
+      - path: RabbitKiller__Root/RabbitKiller__Spine_1/RabbitKiller__Spine_2/RabbitKiller__Spine_3/RabbitKiller__Chest/RabbitKiller__L.Shoulder/RabbitKiller__L.Arm
+        weight: 1
+      - path: RabbitKiller__Root/RabbitKiller__Spine_1/RabbitKiller__Spine_2/RabbitKiller__Spine_3/RabbitKiller__Chest/RabbitKiller__L.Shoulder/RabbitKiller__L.Arm/RabbitKiller__L.Arm_Roll_1
+        weight: 1
+      - path: RabbitKiller__Root/RabbitKiller__Spine_1/RabbitKiller__Spine_2/RabbitKiller__Spine_3/RabbitKiller__Chest/RabbitKiller__L.Shoulder/RabbitKiller__L.Arm/RabbitKiller__L.Arm_Roll_1/RabbitKiller__L.Arm_Roll_2
+        weight: 1
+      - path: RabbitKiller__Root/RabbitKiller__Spine_1/RabbitKiller__Spine_2/RabbitKiller__Spine_3/RabbitKiller__Chest/RabbitKiller__L.Shoulder/RabbitKiller__L.Arm/RabbitKiller__L.Arm_Roll_1/RabbitKiller__L.Arm_Roll_2/RabbitKiller__L.ForeArm
+        weight: 1
+      - path: RabbitKiller__Root/RabbitKiller__Spine_1/RabbitKiller__Spine_2/RabbitKiller__Spine_3/RabbitKiller__Chest/RabbitKiller__L.Shoulder/RabbitKiller__L.Arm/RabbitKiller__L.Arm_Roll_1/RabbitKiller__L.Arm_Roll_2/RabbitKiller__L.ForeArm/RabbitKiller__L.ForeArm_Roll_1
+        weight: 1
+      - path: RabbitKiller__Root/RabbitKiller__Spine_1/RabbitKiller__Spine_2/RabbitKiller__Spine_3/RabbitKiller__Chest/RabbitKiller__L.Shoulder/RabbitKiller__L.Arm/RabbitKiller__L.Arm_Roll_1/RabbitKiller__L.Arm_Roll_2/RabbitKiller__L.ForeArm/RabbitKiller__L.ForeArm_Roll_1/RabbitKiller__L.ForeArm_Roll_2
+        weight: 1
+      - path: RabbitKiller__Root/RabbitKiller__Spine_1/RabbitKiller__Spine_2/RabbitKiller__Spine_3/RabbitKiller__Chest/RabbitKiller__Neck
+        weight: 1
+      - path: RabbitKiller__Root/RabbitKiller__Spine_1/RabbitKiller__Spine_2/RabbitKiller__Spine_3/RabbitKiller__Chest/RabbitKiller__Neck/RabbitKiller__Head
+        weight: 1
+      - path: RabbitKiller__Root/RabbitKiller__Spine_1/RabbitKiller__Spine_2/RabbitKiller__Spine_3/RabbitKiller__Chest/RabbitKiller__Neck/RabbitKiller__Head/RabbitKiller__Jaw
+        weight: 1
+      - path: RabbitKiller__Root/RabbitKiller__Spine_1/RabbitKiller__Spine_2/RabbitKiller__Spine_3/RabbitKiller__Chest/RabbitKiller__Neck/RabbitKiller__Head/RabbitKiller__L.Ear_1
+        weight: 1
+      - path: RabbitKiller__Root/RabbitKiller__Spine_1/RabbitKiller__Spine_2/RabbitKiller__Spine_3/RabbitKiller__Chest/RabbitKiller__Neck/RabbitKiller__Head/RabbitKiller__L.Ear_1/RabbitKiller__L.Ear_2
+        weight: 1
+      - path: RabbitKiller__Root/RabbitKiller__Spine_1/RabbitKiller__Spine_2/RabbitKiller__Spine_3/RabbitKiller__Chest/RabbitKiller__Neck/RabbitKiller__Head/RabbitKiller__L.Ear_1/RabbitKiller__L.Ear_2/RabbitKiller__L.Ear_3
+        weight: 1
+      - path: RabbitKiller__Root/RabbitKiller__Spine_1/RabbitKiller__Spine_2/RabbitKiller__Spine_3/RabbitKiller__Chest/RabbitKiller__Neck/RabbitKiller__Head/RabbitKiller__L.Ear_1/RabbitKiller__L.Ear_2/RabbitKiller__L.Ear_3/RabbitKiller__L.Ear_4
+        weight: 1
+      - path: RabbitKiller__Root/RabbitKiller__Spine_1/RabbitKiller__Spine_2/RabbitKiller__Spine_3/RabbitKiller__Chest/RabbitKiller__Neck/RabbitKiller__Head/RabbitKiller__R.Ear_1
+        weight: 1
+      - path: RabbitKiller__Root/RabbitKiller__Spine_1/RabbitKiller__Spine_2/RabbitKiller__Spine_3/RabbitKiller__Chest/RabbitKiller__Neck/RabbitKiller__Head/RabbitKiller__R.Ear_1/RabbitKiller__R.Ear_2
+        weight: 1
+      - path: RabbitKiller__Root/RabbitKiller__Spine_1/RabbitKiller__Spine_2/RabbitKiller__Spine_3/RabbitKiller__Chest/RabbitKiller__Neck/RabbitKiller__Head/RabbitKiller__R.Ear_1/RabbitKiller__R.Ear_2/RabbitKiller__R.Ear_3
+        weight: 1
+      - path: RabbitKiller__Root/RabbitKiller__Spine_1/RabbitKiller__Spine_2/RabbitKiller__Spine_3/RabbitKiller__Chest/RabbitKiller__Neck/RabbitKiller__Head/RabbitKiller__R.Ear_1/RabbitKiller__R.Ear_2/RabbitKiller__R.Ear_3/RabbitKiller__R.Ear_4
+        weight: 1
+      - path: RabbitKiller__Root/RabbitKiller__Spine_1/RabbitKiller__Spine_2/RabbitKiller__Spine_3/RabbitKiller__Chest/RabbitKiller__R.Shoulder
+        weight: 1
+      - path: RabbitKiller__Root/RabbitKiller__Spine_1/RabbitKiller__Spine_2/RabbitKiller__Spine_3/RabbitKiller__Chest/RabbitKiller__R.Shoulder/RabbitKiller__R.Arm
+        weight: 1
+      - path: RabbitKiller__Root/RabbitKiller__Spine_1/RabbitKiller__Spine_2/RabbitKiller__Spine_3/RabbitKiller__Chest/RabbitKiller__R.Shoulder/RabbitKiller__R.Arm/RabbitKiller__R.Arm_Roll_1
+        weight: 1
+      - path: RabbitKiller__Root/RabbitKiller__Spine_1/RabbitKiller__Spine_2/RabbitKiller__Spine_3/RabbitKiller__Chest/RabbitKiller__R.Shoulder/RabbitKiller__R.Arm/RabbitKiller__R.Arm_Roll_1/RabbitKiller__R.Arm_Roll_2
+        weight: 1
+      - path: RabbitKiller__Root/RabbitKiller__Spine_1/RabbitKiller__Spine_2/RabbitKiller__Spine_3/RabbitKiller__Chest/RabbitKiller__R.Shoulder/RabbitKiller__R.Arm/RabbitKiller__R.Arm_Roll_1/RabbitKiller__R.Arm_Roll_2/RabbitKiller__R.ForeArm
+        weight: 1
+      - path: RabbitKiller__Root/RabbitKiller__Spine_1/RabbitKiller__Spine_2/RabbitKiller__Spine_3/RabbitKiller__Chest/RabbitKiller__R.Shoulder/RabbitKiller__R.Arm/RabbitKiller__R.Arm_Roll_1/RabbitKiller__R.Arm_Roll_2/RabbitKiller__R.ForeArm/RabbitKiller__R.ForeArm_Roll_1
+        weight: 1
+      - path: RabbitKiller__Root/RabbitKiller__Spine_1/RabbitKiller__Spine_2/RabbitKiller__Spine_3/RabbitKiller__Chest/RabbitKiller__R.Shoulder/RabbitKiller__R.Arm/RabbitKiller__R.Arm_Roll_1/RabbitKiller__R.Arm_Roll_2/RabbitKiller__R.ForeArm/RabbitKiller__R.ForeArm_Roll_1/RabbitKiller__R.ForeArm_Roll_2
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

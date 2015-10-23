@@ -1,0 +1,302 @@
+fileFormatVersion: 2
+guid: dc95be703de85964eab62d5b4cb33b88
+timeCreated: 1441978494
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: beach
+    100002: Beach Root (Bind)
+    100004: //RootNode
+    100006: Beach__Character
+    100008: Beach__Head (Bind)
+    100010: Beach__HeadTip (Bind)
+    100012: Beach__Jaw (Bind)
+    100014: Beach__JawTip (Bind)
+    100016: Beach__LLeg1 (Bind)
+    100018: Beach__LLeg1_Fingers (Bind)
+    100020: Beach__LLeg1_FingersTip (Bind)
+    100022: Beach__LLeg1_Foot (Bind)
+    100024: Beach__LLeg1_Knee (Bind)
+    100026: Beach__LLeg2 (Bind)
+    100028: Beach__LLeg2_Fingers (Bind)
+    100030: Beach__LLeg2_FingersTip (Bind)
+    100032: Beach__LLeg2_Foot (Bind)
+    100034: Beach__LLeg2_Knee (Bind)
+    100036: Beach__LLeg3 (Bind)
+    100038: Beach__LLeg3_Fingers (Bind)
+    100040: Beach__LLeg3_FingersTip (Bind)
+    100042: Beach__LLeg3_Foot (Bind)
+    100044: Beach__LLeg3_Knee (Bind)
+    100046: Beach__Neck (Bind)
+    100048: Beach__RLeg1 (Bind)
+    100050: Beach__RLeg1_Fingers (Bind)
+    100052: Beach__RLeg1_FingersTip (Bind)
+    100054: Beach__RLeg1_Foot (Bind)
+    100056: Beach__RLeg1_Knee (Bind)
+    100058: Beach__RLeg2 (Bind)
+    100060: Beach__RLeg2_Fingers (Bind)
+    100062: Beach__RLeg2_FingersTip (Bind)
+    100064: Beach__RLeg2_Foot (Bind)
+    100066: Beach__RLeg2_Knee (Bind)
+    100068: Beach__RLeg3 (Bind)
+    100070: Beach__RLeg3_Fingers (Bind)
+    100072: Beach__RLeg3_FingersTip (Bind)
+    100074: Beach__RLeg3_Foot (Bind)
+    100076: Beach__RLeg3_Knee (Bind)
+    100078: Skeleton_Beach__Tail2 (Bind)
+    100080: Skeleton_Beach__Tail_Tip (Bind)
+    100082: Skeleton_Beach__TailBase (Bind)
+    400000: beach
+    400002: Beach Root (Bind)
+    400004: //RootNode
+    400006: Beach__Character
+    400008: Beach__Head (Bind)
+    400010: Beach__HeadTip (Bind)
+    400012: Beach__Jaw (Bind)
+    400014: Beach__JawTip (Bind)
+    400016: Beach__LLeg1 (Bind)
+    400018: Beach__LLeg1_Fingers (Bind)
+    400020: Beach__LLeg1_FingersTip (Bind)
+    400022: Beach__LLeg1_Foot (Bind)
+    400024: Beach__LLeg1_Knee (Bind)
+    400026: Beach__LLeg2 (Bind)
+    400028: Beach__LLeg2_Fingers (Bind)
+    400030: Beach__LLeg2_FingersTip (Bind)
+    400032: Beach__LLeg2_Foot (Bind)
+    400034: Beach__LLeg2_Knee (Bind)
+    400036: Beach__LLeg3 (Bind)
+    400038: Beach__LLeg3_Fingers (Bind)
+    400040: Beach__LLeg3_FingersTip (Bind)
+    400042: Beach__LLeg3_Foot (Bind)
+    400044: Beach__LLeg3_Knee (Bind)
+    400046: Beach__Neck (Bind)
+    400048: Beach__RLeg1 (Bind)
+    400050: Beach__RLeg1_Fingers (Bind)
+    400052: Beach__RLeg1_FingersTip (Bind)
+    400054: Beach__RLeg1_Foot (Bind)
+    400056: Beach__RLeg1_Knee (Bind)
+    400058: Beach__RLeg2 (Bind)
+    400060: Beach__RLeg2_Fingers (Bind)
+    400062: Beach__RLeg2_FingersTip (Bind)
+    400064: Beach__RLeg2_Foot (Bind)
+    400066: Beach__RLeg2_Knee (Bind)
+    400068: Beach__RLeg3 (Bind)
+    400070: Beach__RLeg3_Fingers (Bind)
+    400072: Beach__RLeg3_FingersTip (Bind)
+    400074: Beach__RLeg3_Foot (Bind)
+    400076: Beach__RLeg3_Knee (Bind)
+    400078: Skeleton_Beach__Tail2 (Bind)
+    400080: Skeleton_Beach__Tail_Tip (Bind)
+    400082: Skeleton_Beach__TailBase (Bind)
+    4300000: beach
+    7400000: BeachRun
+    9500000: //RootNode
+    13700000: beach
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: BeachRun
+      takeName: Take 001
+      firstFrame: 0
+      lastFrame: 16
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: beach
+        weight: 1
+      - path: Beach__Character
+        weight: 1
+      - path: Beach__Character/Beach Root (Bind)
+        weight: 1
+      - path: Beach__Character/Beach Root (Bind)/Beach__LLeg1 (Bind)
+        weight: 1
+      - path: Beach__Character/Beach Root (Bind)/Beach__LLeg1 (Bind)/Beach__LLeg1_Knee
+          (Bind)
+        weight: 1
+      - path: Beach__Character/Beach Root (Bind)/Beach__LLeg1 (Bind)/Beach__LLeg1_Knee
+          (Bind)/Beach__LLeg1_Foot (Bind)
+        weight: 1
+      - path: Beach__Character/Beach Root (Bind)/Beach__LLeg1 (Bind)/Beach__LLeg1_Knee
+          (Bind)/Beach__LLeg1_Foot (Bind)/Beach__LLeg1_Fingers (Bind)
+        weight: 1
+      - path: Beach__Character/Beach Root (Bind)/Beach__LLeg1 (Bind)/Beach__LLeg1_Knee
+          (Bind)/Beach__LLeg1_Foot (Bind)/Beach__LLeg1_Fingers (Bind)/Beach__LLeg1_FingersTip
+          (Bind)
+        weight: 1
+      - path: Beach__Character/Beach Root (Bind)/Beach__LLeg2 (Bind)
+        weight: 1
+      - path: Beach__Character/Beach Root (Bind)/Beach__LLeg2 (Bind)/Beach__LLeg2_Knee
+          (Bind)
+        weight: 1
+      - path: Beach__Character/Beach Root (Bind)/Beach__LLeg2 (Bind)/Beach__LLeg2_Knee
+          (Bind)/Beach__LLeg2_Foot (Bind)
+        weight: 1
+      - path: Beach__Character/Beach Root (Bind)/Beach__LLeg2 (Bind)/Beach__LLeg2_Knee
+          (Bind)/Beach__LLeg2_Foot (Bind)/Beach__LLeg2_Fingers (Bind)
+        weight: 1
+      - path: Beach__Character/Beach Root (Bind)/Beach__LLeg2 (Bind)/Beach__LLeg2_Knee
+          (Bind)/Beach__LLeg2_Foot (Bind)/Beach__LLeg2_Fingers (Bind)/Beach__LLeg2_FingersTip
+          (Bind)
+        weight: 1
+      - path: Beach__Character/Beach Root (Bind)/Beach__LLeg3 (Bind)
+        weight: 1
+      - path: Beach__Character/Beach Root (Bind)/Beach__LLeg3 (Bind)/Beach__LLeg3_Knee
+          (Bind)
+        weight: 1
+      - path: Beach__Character/Beach Root (Bind)/Beach__LLeg3 (Bind)/Beach__LLeg3_Knee
+          (Bind)/Beach__LLeg3_Foot (Bind)
+        weight: 1
+      - path: Beach__Character/Beach Root (Bind)/Beach__LLeg3 (Bind)/Beach__LLeg3_Knee
+          (Bind)/Beach__LLeg3_Foot (Bind)/Beach__LLeg3_Fingers (Bind)
+        weight: 1
+      - path: Beach__Character/Beach Root (Bind)/Beach__LLeg3 (Bind)/Beach__LLeg3_Knee
+          (Bind)/Beach__LLeg3_Foot (Bind)/Beach__LLeg3_Fingers (Bind)/Beach__LLeg3_FingersTip
+          (Bind)
+        weight: 1
+      - path: Beach__Character/Beach Root (Bind)/Beach__Neck (Bind)
+        weight: 1
+      - path: Beach__Character/Beach Root (Bind)/Beach__Neck (Bind)/Beach__Head (Bind)
+        weight: 1
+      - path: Beach__Character/Beach Root (Bind)/Beach__Neck (Bind)/Beach__Head (Bind)/Beach__HeadTip
+          (Bind)
+        weight: 1
+      - path: Beach__Character/Beach Root (Bind)/Beach__Neck (Bind)/Beach__Head (Bind)/Beach__Jaw
+          (Bind)
+        weight: 1
+      - path: Beach__Character/Beach Root (Bind)/Beach__Neck (Bind)/Beach__Head (Bind)/Beach__Jaw
+          (Bind)/Beach__JawTip (Bind)
+        weight: 1
+      - path: Beach__Character/Beach Root (Bind)/Beach__RLeg1 (Bind)
+        weight: 1
+      - path: Beach__Character/Beach Root (Bind)/Beach__RLeg1 (Bind)/Beach__RLeg1_Knee
+          (Bind)
+        weight: 1
+      - path: Beach__Character/Beach Root (Bind)/Beach__RLeg1 (Bind)/Beach__RLeg1_Knee
+          (Bind)/Beach__RLeg1_Foot (Bind)
+        weight: 1
+      - path: Beach__Character/Beach Root (Bind)/Beach__RLeg1 (Bind)/Beach__RLeg1_Knee
+          (Bind)/Beach__RLeg1_Foot (Bind)/Beach__RLeg1_Fingers (Bind)
+        weight: 1
+      - path: Beach__Character/Beach Root (Bind)/Beach__RLeg1 (Bind)/Beach__RLeg1_Knee
+          (Bind)/Beach__RLeg1_Foot (Bind)/Beach__RLeg1_Fingers (Bind)/Beach__RLeg1_FingersTip
+          (Bind)
+        weight: 1
+      - path: Beach__Character/Beach Root (Bind)/Beach__RLeg2 (Bind)
+        weight: 1
+      - path: Beach__Character/Beach Root (Bind)/Beach__RLeg2 (Bind)/Beach__RLeg2_Knee
+          (Bind)
+        weight: 1
+      - path: Beach__Character/Beach Root (Bind)/Beach__RLeg2 (Bind)/Beach__RLeg2_Knee
+          (Bind)/Beach__RLeg2_Foot (Bind)
+        weight: 1
+      - path: Beach__Character/Beach Root (Bind)/Beach__RLeg2 (Bind)/Beach__RLeg2_Knee
+          (Bind)/Beach__RLeg2_Foot (Bind)/Beach__RLeg2_Fingers (Bind)
+        weight: 1
+      - path: Beach__Character/Beach Root (Bind)/Beach__RLeg2 (Bind)/Beach__RLeg2_Knee
+          (Bind)/Beach__RLeg2_Foot (Bind)/Beach__RLeg2_Fingers (Bind)/Beach__RLeg2_FingersTip
+          (Bind)
+        weight: 1
+      - path: Beach__Character/Beach Root (Bind)/Beach__RLeg3 (Bind)
+        weight: 1
+      - path: Beach__Character/Beach Root (Bind)/Beach__RLeg3 (Bind)/Beach__RLeg3_Knee
+          (Bind)
+        weight: 1
+      - path: Beach__Character/Beach Root (Bind)/Beach__RLeg3 (Bind)/Beach__RLeg3_Knee
+          (Bind)/Beach__RLeg3_Foot (Bind)
+        weight: 1
+      - path: Beach__Character/Beach Root (Bind)/Beach__RLeg3 (Bind)/Beach__RLeg3_Knee
+          (Bind)/Beach__RLeg3_Foot (Bind)/Beach__RLeg3_Fingers (Bind)
+        weight: 1
+      - path: Beach__Character/Beach Root (Bind)/Beach__RLeg3 (Bind)/Beach__RLeg3_Knee
+          (Bind)/Beach__RLeg3_Foot (Bind)/Beach__RLeg3_Fingers (Bind)/Beach__RLeg3_FingersTip
+          (Bind)
+        weight: 1
+      - path: Beach__Character/Beach Root (Bind)/Skeleton_Beach__TailBase (Bind)
+        weight: 1
+      - path: Beach__Character/Beach Root (Bind)/Skeleton_Beach__TailBase (Bind)/Skeleton_Beach__Tail2
+          (Bind)
+        weight: 1
+      - path: Beach__Character/Beach Root (Bind)/Skeleton_Beach__TailBase (Bind)/Skeleton_Beach__Tail2
+          (Bind)/Skeleton_Beach__Tail_Tip (Bind)
+        weight: 1
+      maskType: 0
+      maskSource: {instanceID: 0}
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
